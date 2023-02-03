@@ -16,14 +16,12 @@ sites:
     url: https://matrix.cachyos.org/
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.cachyos.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://github.com/CachyOS/website/raw/develop/src/assets/images/logo.svg
   name: CachyOS Status Page
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "cachyosisdown?"
+  introMessage: This is a status page of CachyOS servers hosted on GitHub
+  theme: night
   navbar:
     - title: Status
       href: /
@@ -31,6 +29,14 @@ status-website:
       href: https://github.com/$OWNER/$REPO
     - title: Homepage
       href: https://cachyos.org/
+
+# Configuration of the bots commits
+commitMessages:
+  commitAuthorName: "Cachy uptime-bot"
+  commitAuthorEmail: "uptime-bot@cachyos.org"
+
+# Recommended for GitHub API to work
+user-agent: cachyos
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

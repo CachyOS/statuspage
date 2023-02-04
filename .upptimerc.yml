@@ -6,11 +6,11 @@ assignees:
   - ptr1337
 
 sites:
-  - name: Web Server
+  - name: Website
     url: https://cachyos.org/
-  - name: Mirror
+  - name: DE mirror
     url: https://mirror.cachyos.org/
-  - name: Aur
+  - name: DE2 mirror
     url: https://aur.cachyos.org/
   - name: Hungary mirror
     url: https://hun.cachyos.org/
@@ -29,7 +29,7 @@ status-website:
   cname: status.cachyos.org
   logoUrl: https://github.com/CachyOS/website/raw/develop/src/assets/images/logo.svg
   name: CachyOS Status Page
-  introTitle: "cachyosisdown?"
+  introTitle: "is CachyOS down?"
   introMessage: This is a status page of CachyOS servers hosted on GitHub
   theme: night
   navbar:

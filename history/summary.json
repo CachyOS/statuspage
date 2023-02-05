@@ -130,19 +130,19 @@
     "url": "https://mirror.albony.xyz/cachylinux/",
     "icon": "https://icons.duckduckgo.com/ip3/mirror.albony.xyz.ico",
     "slug": "india-mirror",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 629,
-    "timeDay": 586,
-    "timeWeek": 629,
-    "timeMonth": 629,
-    "timeYear": 629,
+    "status": "up",
+    "uptime": "98.27%",
+    "uptimeDay": "97.11%",
+    "uptimeWeek": "98.27%",
+    "uptimeMonth": "98.27%",
+    "uptimeYear": "98.27%",
+    "time": 618,
+    "timeDay": 583,
+    "timeWeek": 618,
+    "timeMonth": 618,
+    "timeYear": 618,
     "dailyMinutesDown": {
-      "2023-02-05": 0
+      "2023-02-05": 42
     }
   },
   {

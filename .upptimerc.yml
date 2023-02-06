@@ -18,10 +18,14 @@ sites:
     url: https://sg.cachyos.org/
   - name: South Korea mirror
     url: https://kr.cachyos.org/
+    assignees:
+      - silent-heigou
   - name: USA mirror
     url: https://us.cachyos.org/
   - name: India mirror
     url: https://mirror.albony.xyz/cachylinux/
+    assignees:
+      - Albonycal
   - name: Matrix Server
     url: https://matrix.cachyos.org/
 

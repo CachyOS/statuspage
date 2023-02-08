@@ -94,9 +94,9 @@
     "url": "https://kr.cachyos.org/",
     "icon": "https://icons.duckduckgo.com/ip3/kr.cachyos.org.ico",
     "slug": "south-korea-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -105,7 +105,9 @@
     "timeWeek": 1680,
     "timeMonth": 1680,
     "timeYear": 1680,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-02-08": 0
+    }
   },
   {
     "name": "USA mirror",
@@ -131,11 +133,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mirror.albony.xyz.ico",
     "slug": "india-mirror",
     "status": "up",
-    "uptime": "83.23%",
-    "uptimeDay": "75.87%",
-    "uptimeWeek": "83.23%",
-    "uptimeMonth": "83.23%",
-    "uptimeYear": "83.23%",
+    "uptime": "83.76%",
+    "uptimeDay": "89.84%",
+    "uptimeWeek": "83.76%",
+    "uptimeMonth": "83.76%",
+    "uptimeYear": "83.76%",
     "time": 2120,
     "timeDay": 637,
     "timeWeek": 2120,

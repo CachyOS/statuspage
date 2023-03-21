@@ -96,9 +96,9 @@
     "url": "https://kr.cachyos.org/",
     "icon": "https://icons.duckduckgo.com/ip3/kr.cachyos.org.ico",
     "slug": "south-korea-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "99.78%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.78%",
@@ -108,6 +108,7 @@
     "timeMonth": 1872,
     "timeYear": 1870,
     "dailyMinutesDown": {
+      "2023-03-21": 0,
       "2023-02-25": 34,
       "2023-02-16": 21,
       "2023-02-08": 91

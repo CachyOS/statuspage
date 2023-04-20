@@ -58,9 +58,9 @@
     "url": "https://hun.cachyos.org/",
     "icon": "https://icons.duckduckgo.com/ip3/hun.cachyos.org.ico",
     "slug": "hungary-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -69,7 +69,9 @@
     "timeWeek": 601,
     "timeMonth": 544,
     "timeYear": 558,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-04-20": 0
+    }
   },
   {
     "name": "Singapore mirror",
@@ -83,7 +85,7 @@
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.89%",
     "time": 898,
-    "timeDay": 1879,
+    "timeDay": 850,
     "timeWeek": 1138,
     "timeMonth": 996,
     "timeYear": 898,
@@ -138,11 +140,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mirror.albony.xyz.ico",
     "slug": "india-mirror",
     "status": "up",
-    "uptime": "97.91%",
+    "uptime": "97.92%",
     "uptimeDay": "96.79%",
     "uptimeWeek": "98.27%",
     "uptimeMonth": "98.34%",
-    "uptimeYear": "97.91%",
+    "uptimeYear": "97.92%",
     "time": 1267,
     "timeDay": 644,
     "timeWeek": 894,

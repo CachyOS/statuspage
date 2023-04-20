@@ -58,19 +58,19 @@
     "url": "https://hun.cachyos.org/",
     "icon": "https://icons.duckduckgo.com/ip3/hun.cachyos.org.ico",
     "slug": "hungary-mirror",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 558,
-    "timeDay": 605,
-    "timeWeek": 601,
-    "timeMonth": 544,
-    "timeYear": 558,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.99%",
+    "time": 754,
+    "timeDay": 8426,
+    "timeWeek": 2557,
+    "timeMonth": 1035,
+    "timeYear": 754,
     "dailyMinutesDown": {
-      "2023-04-20": 0
+      "2023-04-20": 16
     }
   },
   {

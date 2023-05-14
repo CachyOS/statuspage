@@ -78,9 +78,9 @@
     "url": "https://sg.cachyos.org/",
     "icon": "https://icons.duckduckgo.com/ip3/sg.cachyos.org.ico",
     "slug": "singapore-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
@@ -90,6 +90,7 @@
     "timeMonth": 918,
     "timeYear": 883,
     "dailyMinutesDown": {
+      "2023-05-14": 0,
       "2023-03-29": 68,
       "2023-03-04": 55
     }

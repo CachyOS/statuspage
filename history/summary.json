@@ -204,18 +204,19 @@
     "url": "https://matrix.cachyos.org/",
     "icon": "https://icons.duckduckgo.com/ip3/matrix.cachyos.org.ico",
     "slug": "matrix-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 673,
-    "timeDay": 750,
-    "timeWeek": 718,
-    "timeMonth": 699,
-    "timeYear": 673,
+    "time": 672,
+    "timeDay": 570,
+    "timeWeek": 677,
+    "timeMonth": 690,
+    "timeYear": 672,
     "dailyMinutesDown": {
+      "2023-08-18": 0,
       "2023-07-10": 16
     }
   }

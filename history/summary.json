@@ -22,10 +22,10 @@
     "url": "https://mirror.cachyos.org/",
     "icon": "https://icons.duckduckgo.com/ip3/mirror.cachyos.org.ico",
     "slug": "de-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 580,
@@ -33,17 +33,19 @@
     "timeWeek": 558,
     "timeMonth": 593,
     "timeYear": 580,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-17": 1
+    }
   },
   {
     "name": "DE2 mirror",
     "url": "https://aur.cachyos.org/",
     "icon": "https://icons.duckduckgo.com/ip3/aur.cachyos.org.ico",
     "slug": "de-2-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 551,
@@ -51,16 +53,18 @@
     "timeWeek": 490,
     "timeMonth": 538,
     "timeYear": 551,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-09-17": 1
+    }
   },
   {
     "name": "Hungary mirror",
     "url": "https://hun.cachyos.org/",
     "icon": "https://icons.duckduckgo.com/ip3/hun.cachyos.org.ico",
     "slug": "hungary-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -70,6 +74,7 @@
     "timeMonth": 596,
     "timeYear": 652,
     "dailyMinutesDown": {
+      "2023-09-17": 0,
       "2023-08-08": 29,
       "2023-08-03": 31,
       "2023-05-24": 23,

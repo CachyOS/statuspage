@@ -4,18 +4,20 @@
     "url": "https://cachyos.org/",
     "icon": "https://icons.duckduckgo.com/ip3/cachyos.org.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 695,
-    "timeDay": 543,
-    "timeWeek": 587,
-    "timeMonth": 668,
-    "timeYear": 695,
-    "dailyMinutesDown": {}
+    "time": 693,
+    "timeDay": 457,
+    "timeWeek": 544,
+    "timeMonth": 652,
+    "timeYear": 693,
+    "dailyMinutesDown": {
+      "2023-09-21": 0
+    }
   },
   {
     "name": "DE mirror",
@@ -40,19 +42,19 @@
     "url": "https://aur.cachyos.org/",
     "icon": "https://icons.duckduckgo.com/ip3/aur.cachyos.org.ico",
     "slug": "de-2-mirror",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.46%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 548,
-    "timeDay": 380,
-    "timeWeek": 454,
-    "timeMonth": 518,
+    "timeDay": 435,
+    "timeWeek": 467,
+    "timeMonth": 520,
     "timeYear": 548,
     "dailyMinutesDown": {
-      "2023-09-21": 0
+      "2023-09-21": 8
     }
   },
   {
@@ -85,9 +87,9 @@
     "slug": "singapore-mirror",
     "status": "down",
     "uptime": "97.55%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.80%",
     "uptimeYear": "97.55%",
     "time": 870,
     "timeDay": 545,
@@ -95,7 +97,7 @@
     "timeMonth": 816,
     "timeYear": 870,
     "dailyMinutesDown": {
-      "2023-09-21": 0,
+      "2023-09-21": 8,
       "2023-08-26": 82,
       "2023-08-20": 187,
       "2023-06-25": 906,

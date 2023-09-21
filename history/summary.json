@@ -4,20 +4,18 @@
     "url": "https://cachyos.org/",
     "icon": "https://icons.duckduckgo.com/ip3/cachyos.org.ico",
     "slug": "website",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 693,
-    "timeDay": 457,
-    "timeWeek": 544,
-    "timeMonth": 652,
+    "timeDay": 480,
+    "timeWeek": 548,
+    "timeMonth": 651,
     "timeYear": 693,
-    "dailyMinutesDown": {
-      "2023-09-21": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "DE mirror",
@@ -42,18 +40,20 @@
     "url": "https://aur.cachyos.org/",
     "icon": "https://icons.duckduckgo.com/ip3/aur.cachyos.org.ico",
     "slug": "de-2-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 548,
-    "timeDay": 435,
-    "timeWeek": 467,
-    "timeMonth": 520,
-    "timeYear": 548,
-    "dailyMinutesDown": {}
+    "time": 547,
+    "timeDay": 404,
+    "timeWeek": 452,
+    "timeMonth": 513,
+    "timeYear": 547,
+    "dailyMinutesDown": {
+      "2023-09-21": 0
+    }
   },
   {
     "name": "Hungary mirror",

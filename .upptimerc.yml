@@ -16,6 +16,10 @@ sites:
     url: https://hun.cachyos.org/
   - name: Singapore mirror
     url: https://sg.cachyos.org/
+  - name: France mirror
+    url: https://mirror.lesviallon.fr/cachy/
+  - name: Russia mirror
+    url: https://mirror.truenetwork.ru/cachy/
   - name: South Korea mirror
     url: https://kr.cachyos.org/
     assignees:

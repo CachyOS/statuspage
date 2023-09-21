@@ -1,7 +1,7 @@
 url: https://aur.cachyos.org/
-status: down
-code: 502
-responseTime: 477
-lastUpdated: 2023-09-21T23:43:52.351Z
+status: up
+code: 200
+responseTime: 549
+lastUpdated: 2023-09-21T23:51:39.342Z
 startTime: 2023-02-04T16:31:01.000Z
 generator: Upptime <https://github.com/upptime/upptime>

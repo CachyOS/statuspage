@@ -113,11 +113,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mirror.lesviallon.fr.ico",
     "slug": "france-mirror",
     "status": "up",
-    "uptime": "78.98%",
+    "uptime": "79.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "61.60%",
-    "uptimeMonth": "78.98%",
-    "uptimeYear": "78.98%",
+    "uptimeMonth": "79.04%",
+    "uptimeYear": "79.04%",
     "time": 1033,
     "timeDay": 737,
     "timeWeek": 730,
@@ -184,9 +184,9 @@
     "url": "https://us.cachyos.org/",
     "icon": "https://icons.duckduckgo.com/ip3/us.cachyos.org.ico",
     "slug": "usa-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -195,7 +195,9 @@
     "timeWeek": 304,
     "timeMonth": 613,
     "timeYear": 400,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-05": 0
+    }
   },
   {
     "name": "India mirror",

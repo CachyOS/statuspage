@@ -113,11 +113,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mirror.lesviallon.fr.ico",
     "slug": "france-mirror",
     "status": "up",
-    "uptime": "82.19%",
+    "uptime": "82.24%",
     "uptimeDay": "94.96%",
-    "uptimeWeek": "74.02%",
-    "uptimeMonth": "82.19%",
-    "uptimeYear": "82.19%",
+    "uptimeWeek": "74.77%",
+    "uptimeMonth": "82.24%",
+    "uptimeYear": "82.24%",
     "time": 1190,
     "timeDay": 2462,
     "timeWeek": 1294,
@@ -138,9 +138,9 @@
     "url": "https://mirror.truenetwork.ru/cachy/",
     "icon": "https://icons.duckduckgo.com/ip3/mirror.truenetwork.ru.ico",
     "slug": "russia-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -149,7 +149,9 @@
     "timeWeek": 1181,
     "timeMonth": 1298,
     "timeYear": 1298,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-08": 0
+    }
   },
   {
     "name": "South Korea mirror",

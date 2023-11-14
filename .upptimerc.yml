@@ -14,8 +14,6 @@ sites:
     url: https://aur.cachyos.org/
   - name: Hungary mirror
     url: https://hun.cachyos.org/
-  - name: Singapore mirror
-    url: https://sg.cachyos.org/
   - name: France mirror
     url: https://mirror.lesviallon.fr/cachy/
   - name: Russia mirror

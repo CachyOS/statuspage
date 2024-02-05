@@ -191,7 +191,7 @@
     "timeMonth": 1795,
     "timeYear": 1841,
     "dailyMinutesDown": {
-      "2024-02-05": 1151,
+      "2024-02-05": 1152,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
       "2024-02-02": 1440,
@@ -273,18 +273,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/us.soulharsh007.dev.ico",
     "slug": "cdn-us-global-mirror",
     "status": "down",
-    "uptime": "4.91%",
-    "uptimeDay": "4.91%",
-    "uptimeWeek": "4.91%",
-    "uptimeMonth": "4.91%",
-    "uptimeYear": "4.91%",
+    "uptime": "0.44%",
+    "uptimeDay": "0.44%",
+    "uptimeWeek": "0.44%",
+    "uptimeMonth": "0.44%",
+    "uptimeYear": "0.44%",
     "time": 70,
     "timeDay": 70,
     "timeWeek": 70,
     "timeMonth": 70,
     "timeYear": 70,
     "dailyMinutesDown": {
-      "2024-02-05": 0
+      "2024-02-05": 1
     }
   },
   {

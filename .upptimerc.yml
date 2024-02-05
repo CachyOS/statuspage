@@ -24,6 +24,10 @@ sites:
       - silent-heigou
   - name: USA mirror
     url: https://us.cachyos.org/
+  - name: CDN US/Global mirror
+    url: https://us.soulharsh007.dev/
+    assignees:
+      - SoulHarsh007
   - name: India mirror
     url: https://mirror.albony.xyz/cachylinux/
     assignees:

@@ -25,7 +25,7 @@ sites:
   - name: USA mirror
     url: https://us.cachyos.org/
   - name: CDN US/Global mirror
-    url: https://us.soulharsh007.dev/
+    url: https://us.soulharsh007.dev/repo/x86_64/cachyos/cachyos.db
     assignees:
       - SoulHarsh007
   - name: India mirror

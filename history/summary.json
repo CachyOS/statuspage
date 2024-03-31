@@ -6,18 +6,16 @@
     "slug": "website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 684,
     "timeDay": 310,
     "timeWeek": 605,
-    "timeMonth": 684,
+    "timeMonth": 688,
     "timeYear": 689,
-    "dailyMinutesDown": {
-      "2024-03-30": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "DE mirror",
@@ -26,18 +24,16 @@
     "slug": "de-mirror",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 566,
     "timeDay": 242,
     "timeWeek": 510,
-    "timeMonth": 550,
+    "timeMonth": 560,
     "timeYear": 571,
-    "dailyMinutesDown": {
-      "2024-03-30": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "DE2 mirror",
@@ -46,18 +42,16 @@
     "slug": "de-2-mirror",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 578,
     "timeDay": 155,
     "timeWeek": 437,
     "timeMonth": 540,
     "timeYear": 584,
-    "dailyMinutesDown": {
-      "2024-03-30": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hungary mirror",
@@ -66,17 +60,16 @@
     "slug": "hungary-mirror",
     "status": "up",
     "uptime": "99.64%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.01%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.04%",
     "uptimeYear": "99.58%",
     "time": 626,
     "timeDay": 209,
     "timeWeek": 503,
-    "timeMonth": 662,
+    "timeMonth": 660,
     "timeYear": 636,
     "dailyMinutesDown": {
-      "2024-03-30": 11,
       "2024-03-09": 398,
       "2024-03-01": 23,
       "2024-02-20": 564,
@@ -98,13 +91,13 @@
     "status": "up",
     "uptime": "94.65%",
     "uptimeDay": "97.99%",
-    "uptimeWeek": "98.71%",
+    "uptimeWeek": "99.26%",
     "uptimeMonth": "99.49%",
     "uptimeYear": "94.65%",
     "time": 1487,
     "timeDay": 1044,
     "timeWeek": 1464,
-    "timeMonth": 1370,
+    "timeMonth": 1365,
     "timeYear": 1487,
     "dailyMinutesDown": {
       "2024-03-30": 29,
@@ -175,7 +168,7 @@
     "time": 2057,
     "timeDay": 1179,
     "timeWeek": 1232,
-    "timeMonth": 1189,
+    "timeMonth": 1188,
     "timeYear": 2057,
     "dailyMinutesDown": {
       "2023-12-04": 97,
@@ -208,7 +201,7 @@
     "time": 1836,
     "timeDay": 1781,
     "timeWeek": 1594,
-    "timeMonth": 1781,
+    "timeMonth": 1777,
     "timeYear": 1800,
     "dailyMinutesDown": {
       "2024-03-02": 120,
@@ -280,17 +273,16 @@
     "slug": "usa-mirror",
     "status": "up",
     "uptime": "99.63%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.80%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.83%",
     "uptimeYear": "99.57%",
     "time": 441,
     "timeDay": 228,
     "timeWeek": 281,
-    "timeMonth": 337,
+    "timeMonth": 336,
     "timeYear": 455,
     "dailyMinutesDown": {
-      "2024-03-30": 11,
       "2024-03-11": 20,
       "2024-03-09": 55,
       "2024-01-04": 415,
@@ -314,7 +306,7 @@
     "time": 377,
     "timeDay": 180,
     "timeWeek": 236,
-    "timeMonth": 430,
+    "timeMonth": 423,
     "timeYear": 377,
     "dailyMinutesDown": {
       "2024-02-05": 43
@@ -334,7 +326,7 @@
     "time": 1257,
     "timeDay": 833,
     "timeWeek": 822,
-    "timeMonth": 718,
+    "timeMonth": 714,
     "timeYear": 1225,
     "dailyMinutesDown": {
       "2024-03-13": 620,
@@ -396,7 +388,7 @@
     "time": 670,
     "timeDay": 802,
     "timeWeek": 733,
-    "timeMonth": 679,
+    "timeMonth": 683,
     "timeYear": 672,
     "dailyMinutesDown": {
       "2024-02-04": 16,

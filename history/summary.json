@@ -6,18 +6,16 @@
     "slug": "website",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 683,
     "timeDay": 546,
     "timeWeek": 567,
     "timeMonth": 673,
     "timeYear": 688,
-    "dailyMinutesDown": {
-      "2024-04-01": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "DE mirror",
@@ -44,18 +42,16 @@
     "slug": "de-2-mirror",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 577,
     "timeDay": 542,
     "timeWeek": 455,
     "timeMonth": 540,
     "timeYear": 584,
-    "dailyMinutesDown": {
-      "2024-04-01": 8
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Hungary mirror",
@@ -201,7 +197,7 @@
     "uptime": "89.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.89%",
+    "uptimeMonth": "99.15%",
     "uptimeYear": "87.69%",
     "time": 1834,
     "timeDay": 1347,
@@ -302,19 +298,19 @@
     "url": "https://us.soulharsh007.dev/repo/x86_64/cachyos/cachyos.db",
     "icon": "https://icons.duckduckgo.com/ip3/us.soulharsh007.dev.ico",
     "slug": "cdn-us-global-mirror",
-    "status": "down",
-    "uptime": "99.92%",
-    "uptimeDay": "98.37%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.92%",
-    "time": 371,
-    "timeDay": 174,
-    "timeWeek": 227,
-    "timeMonth": 414,
-    "timeYear": 371,
+    "status": "up",
+    "uptime": "99.78%",
+    "uptimeDay": "90.43%",
+    "uptimeWeek": "98.63%",
+    "uptimeMonth": "99.69%",
+    "uptimeYear": "99.78%",
+    "time": 375,
+    "timeDay": 338,
+    "timeWeek": 276,
+    "timeMonth": 422,
+    "timeYear": 375,
     "dailyMinutesDown": {
-      "2024-04-01": 23,
+      "2024-04-01": 138,
       "2024-02-05": 43
     }
   },

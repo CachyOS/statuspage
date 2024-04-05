@@ -12,8 +12,6 @@ sites:
     url: https://mirror.cachyos.org/
   - name: DE2 mirror
     url: https://aur.cachyos.org/
-  - name: Hungary mirror
-    url: https://hun.cachyos.org/
   - name: France mirror
     url: https://mirror.lesviallon.fr/cachy/
   - name: Russia mirror

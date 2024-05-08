@@ -1,7 +1,7 @@
 url: https://mirror.lesviallon.fr/cachy/
-status: up
-code: 200
-responseTime: 791
-lastUpdated: 2024-05-07T23:10:06.241Z
+status: down
+code: 502
+responseTime: 840
+lastUpdated: 2024-05-08T04:43:02.411Z
 startTime: 2023-09-21T15:10:24.008Z
 generator: Upptime <https://github.com/upptime/upptime>

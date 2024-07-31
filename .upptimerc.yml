@@ -8,6 +8,10 @@ assignees:
 sites:
   - name: Website
     url: https://cachyos.org/
+  - name: Tebi CDN (US, Germany, singapore)
+    url: https://cdn.cachyos.org/x86_64/cachyos/cachyos.db
+  - name: CDN77 CDN (Worldwide Cache)
+    url: https://cdn77.cachyos.org/repo/x86_64/cachyos/cachyos.db
   - name: DE mirror
     url: https://mirror.cachyos.org/
   - name: DE2 mirror
@@ -22,10 +26,22 @@ sites:
       - silent-heigou
   - name: USA mirror
     url: https://us.cachyos.org/
-  - name: CDN US/Global mirror
-    url: https://us.soulharsh007.dev/repo/x86_64/cachyos/cachyos.db
+  - name: Norway Mirror
+    url: https://mirror.fast0ne.com
+  - name: Norway2 Mirror
+    url: https://no.mirror.cx/cachyos/
+  - name: France2 Mirror
+    url: https://mir.cachyos.fr
+  - name: Austria Mirror
+    url: https://at.cachyos.org
     assignees:
       - SoulHarsh007
+  - name: South Korea Mirror 2
+    url: https://mirror.funami.tech/cachy/
+  - name: China Mirror 20GBs
+    url: https://mirrors.tuna.tsinghua.edu.cn/cachyos/
+  - name: China Mirror 10GBs
+    url: https://mirror.nju.edu.cn/cachyos/cachyos
   - name: India mirror
     url: https://mirror.albony.xyz/cachylinux/
     assignees:

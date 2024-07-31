@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/cdn.cachyos.org.ico",
     "slug": "tebi-cdn-us-germany-singapore",
     "status": "down",
-    "uptime": "2.02%",
-    "uptimeDay": "2.02%",
-    "uptimeWeek": "2.02%",
-    "uptimeMonth": "2.02%",
-    "uptimeYear": "2.02%",
+    "uptime": "1.67%",
+    "uptimeDay": "1.67%",
+    "uptimeWeek": "1.67%",
+    "uptimeMonth": "1.67%",
+    "uptimeYear": "1.67%",
     "time": 527,
     "timeDay": 527,
     "timeWeek": 527,
     "timeMonth": 527,
     "timeYear": 527,
     "dailyMinutesDown": {
-      "2024-07-31": 0
+      "2024-07-31": 1
     }
   },
   {
@@ -320,11 +320,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mirror.fast0ne.com.ico",
     "slug": "norway-mirror",
     "status": "down",
-    "uptime": "0.08%",
-    "uptimeDay": "0.08%",
-    "uptimeWeek": "0.08%",
-    "uptimeMonth": "0.08%",
-    "uptimeYear": "0.08%",
+    "uptime": "0.82%",
+    "uptimeDay": "0.82%",
+    "uptimeWeek": "0.82%",
+    "uptimeMonth": "0.82%",
+    "uptimeYear": "0.82%",
     "time": 123,
     "timeDay": 123,
     "timeWeek": 123,
@@ -430,18 +430,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mirror.nju.edu.cn.ico",
     "slug": "china-mirror-10-g-bs",
     "status": "down",
-    "uptime": "10.39%",
-    "uptimeDay": "10.39%",
-    "uptimeWeek": "10.39%",
-    "uptimeMonth": "10.39%",
-    "uptimeYear": "10.39%",
+    "uptime": "5.96%",
+    "uptimeDay": "5.96%",
+    "uptimeWeek": "5.96%",
+    "uptimeMonth": "5.96%",
+    "uptimeYear": "5.96%",
     "time": 1922,
     "timeDay": 1922,
     "timeWeek": 1922,
     "timeMonth": 1922,
     "timeYear": 1922,
     "dailyMinutesDown": {
-      "2024-07-31": 0
+      "2024-07-31": 1
     }
   },
   {

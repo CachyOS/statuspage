@@ -26,8 +26,6 @@ sites:
       - silent-heigou
   - name: USA mirror
     url: https://us.cachyos.org/
-  - name: Norway Mirror
-    url: https://mirror.fast0ne.com
   - name: Norway2 Mirror
     url: https://no.mirror.cx/cachyos/
   - name: France2 Mirror

@@ -408,19 +408,19 @@
     "url": "https://mirror.nju.edu.cn/cachyos",
     "icon": "https://icons.duckduckgo.com/ip3/mirror.nju.edu.cn.ico",
     "slug": "china-mirror-10-g-bs",
-    "status": "down",
-    "uptime": "99.45%",
-    "uptimeDay": "98.87%",
-    "uptimeWeek": "99.45%",
-    "uptimeMonth": "99.45%",
-    "uptimeYear": "99.45%",
-    "time": 2210,
-    "timeDay": 2426,
-    "timeWeek": 2210,
-    "timeMonth": 2210,
-    "timeYear": 2210,
+    "status": "up",
+    "uptime": "98.92%",
+    "uptimeDay": "97.77%",
+    "uptimeWeek": "98.92%",
+    "uptimeMonth": "98.92%",
+    "uptimeYear": "98.92%",
+    "time": 2219,
+    "timeDay": 2399,
+    "timeWeek": 2219,
+    "timeMonth": 2219,
+    "timeYear": 2219,
     "dailyMinutesDown": {
-      "2024-08-02": 16
+      "2024-08-02": 32
     }
   },
   {

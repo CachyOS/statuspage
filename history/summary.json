@@ -104,7 +104,7 @@
     "uptimeYear": "96.00%",
     "time": 1408,
     "timeDay": 624,
-    "timeWeek": 1348,
+    "timeWeek": 1374,
     "timeMonth": 1248,
     "timeYear": 1408,
     "dailyMinutesDown": {
@@ -409,18 +409,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mirror.nju.edu.cn.ico",
     "slug": "china-mirror-10-g-bs",
     "status": "up",
-    "uptime": "98.36%",
-    "uptimeDay": "96.17%",
-    "uptimeWeek": "98.36%",
-    "uptimeMonth": "98.36%",
-    "uptimeYear": "98.36%",
+    "uptime": "98.60%",
+    "uptimeDay": "96.63%",
+    "uptimeWeek": "98.60%",
+    "uptimeMonth": "98.60%",
+    "uptimeYear": "98.60%",
     "time": 2182,
     "timeDay": 2079,
     "timeWeek": 2182,
     "timeMonth": 2182,
     "timeYear": 2182,
     "dailyMinutesDown": {
-      "2024-08-02": 55
+      "2024-08-02": 48
     }
   },
   {
@@ -433,7 +433,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.29%",
     "uptimeMonth": "99.47%",
-    "uptimeYear": "96.02%",
+    "uptimeYear": "96.04%",
     "time": 1250,
     "timeDay": 1372,
     "timeWeek": 1408,
@@ -500,8 +500,7 @@
       "2023-09-01": 18,
       "2023-08-28": 35,
       "2023-08-24": 22,
-      "2023-08-20": 22,
-      "2023-08-04": 410
+      "2023-08-20": 22
     }
   },
   {

@@ -38,8 +38,6 @@ sites:
     url: https://mirror.funami.tech/cachy/
   - name: China Mirror 20GBs
     url: https://mirrors.tuna.tsinghua.edu.cn/cachyos/
-  - name: China Mirror 10GBs
-    url: https://mirror.nju.edu.cn/cachyos
   - name: India mirror
     url: https://mirror.albony.xyz/cachylinux/
     assignees:

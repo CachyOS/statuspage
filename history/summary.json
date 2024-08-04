@@ -336,19 +336,19 @@
     "url": "https://mir.cachyos.fr",
     "icon": "https://icons.duckduckgo.com/ip3/mir.cachyos.fr.ico",
     "slug": "france2-mirror",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 596,
-    "timeDay": 609,
-    "timeWeek": 596,
-    "timeMonth": 596,
-    "timeYear": 596,
+    "status": "up",
+    "uptime": "98.85%",
+    "uptimeDay": "95.06%",
+    "uptimeWeek": "98.85%",
+    "uptimeMonth": "98.85%",
+    "uptimeYear": "98.85%",
+    "time": 604,
+    "timeDay": 640,
+    "timeWeek": 604,
+    "timeMonth": 604,
+    "timeYear": 604,
     "dailyMinutesDown": {
-      "2024-08-04": 0
+      "2024-08-04": 71
     }
   },
   {

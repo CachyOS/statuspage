@@ -22,19 +22,19 @@
     "url": "https://cdn-1.cachyos.org/x86_64/cachyos/cachyos.db",
     "icon": "https://icons.duckduckgo.com/ip3/cdn-1.cachyos.org.ico",
     "slug": "tebi-cdn-usa-germany-singapore",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 299,
-    "timeDay": 226,
-    "timeWeek": 299,
-    "timeMonth": 299,
-    "timeYear": 299,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 303,
+    "timeDay": 263,
+    "timeWeek": 303,
+    "timeMonth": 303,
+    "timeYear": 303,
     "dailyMinutesDown": {
-      "2024-08-05": 0
+      "2024-08-05": 8
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "https://cdn77.cachyos.org/repo/x86_64/cachyos/cachyos.db",
     "icon": "https://icons.duckduckgo.com/ip3/cdn77.cachyos.org.ico",
     "slug": "cdn-77-cdn-worldwide-cache",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 572,
-    "timeDay": 487,
-    "timeWeek": 572,
-    "timeMonth": 572,
-    "timeYear": 572,
+    "status": "up",
+    "uptime": "99.89%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.89%",
+    "uptimeYear": "99.89%",
+    "time": 596,
+    "timeDay": 602,
+    "timeWeek": 596,
+    "timeMonth": 596,
+    "timeYear": 596,
     "dailyMinutesDown": {
-      "2024-08-05": 0
+      "2024-08-05": 8
     }
   },
   {

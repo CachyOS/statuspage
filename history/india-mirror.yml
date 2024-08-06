@@ -1,7 +1,7 @@
 url: https://mirror.albony.xyz/cachylinux/
-status: up
-code: 200
-responseTime: 1750
-lastUpdated: 2024-08-05T23:13:53.962Z
+status: down
+code: 500
+responseTime: 772
+lastUpdated: 2024-08-06T11:48:02.319Z
 startTime: 2023-02-03T19:46:48.000Z
 generator: Upptime <https://github.com/upptime/upptime>

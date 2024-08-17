@@ -399,9 +399,9 @@
     "url": "https://mirrors.tuna.tsinghua.edu.cn/cachyos/",
     "icon": "https://icons.duckduckgo.com/ip3/mirrors.tuna.tsinghua.edu.cn.ico",
     "slug": "china-mirror-20-g-bs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -410,7 +410,9 @@
     "timeWeek": 1757,
     "timeMonth": 1852,
     "timeYear": 1852,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-17": 0
+    }
   },
   {
     "name": "India mirror",
@@ -419,9 +421,9 @@
     "slug": "india-mirror",
     "status": "up",
     "uptime": "97.02%",
-    "uptimeDay": "99.46%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.52%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.53%",
     "uptimeYear": "96.37%",
     "time": 1266,
     "timeDay": 1500,
@@ -429,7 +431,6 @@
     "timeMonth": 1457,
     "timeYear": 1344,
     "dailyMinutesDown": {
-      "2024-08-17": 8,
       "2024-08-07": 23,
       "2024-08-06": 35,
       "2024-07-31": 56,

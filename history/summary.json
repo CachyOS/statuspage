@@ -399,19 +399,19 @@
     "url": "https://mirrors.tuna.tsinghua.edu.cn/cachyos/",
     "icon": "https://icons.duckduckgo.com/ip3/mirrors.tuna.tsinghua.edu.cn.ico",
     "slug": "china-mirror-20-g-bs",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 1849,
-    "timeDay": 1619,
-    "timeWeek": 1738,
-    "timeMonth": 1849,
-    "timeYear": 1849,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 1852,
+    "timeDay": 1720,
+    "timeWeek": 1757,
+    "timeMonth": 1852,
+    "timeYear": 1852,
     "dailyMinutesDown": {
-      "2024-08-17": 0
+      "2024-08-17": 7
     }
   },
   {

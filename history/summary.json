@@ -4,10 +4,10 @@
     "url": "https://cachyos.org/",
     "icon": "https://icons.duckduckgo.com/ip3/cachyos.org.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 684,
@@ -15,7 +15,9 @@
     "timeWeek": 804,
     "timeMonth": 743,
     "timeYear": 671,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-21": 2
+    }
   },
   {
     "name": "Tebi CDN (USA, Germany, Singapore)",
@@ -60,10 +62,10 @@
     "url": "https://mirror.cachyos.org/",
     "icon": "https://icons.duckduckgo.com/ip3/mirror.cachyos.org.ico",
     "slug": "de-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 572,
@@ -72,6 +74,7 @@
     "timeMonth": 556,
     "timeYear": 561,
     "dailyMinutesDown": {
+      "2024-08-21": 1,
       "2024-04-09": 26
     }
   },
@@ -344,11 +347,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/mir.cachyos.fr.ico",
     "slug": "france2-mirror",
     "status": "up",
-    "uptime": "99.28%",
+    "uptime": "99.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.59%",
-    "uptimeMonth": "99.28%",
-    "uptimeYear": "99.28%",
+    "uptimeMonth": "99.29%",
+    "uptimeYear": "99.29%",
     "time": 633,
     "timeDay": 572,
     "timeWeek": 620,
@@ -401,18 +404,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/mirrors.tuna.tsinghua.edu.cn.ico",
     "slug": "china-mirror-20-g-bs",
     "status": "up",
-    "uptime": "99.90%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.72%",
-    "uptimeMonth": "99.90%",
-    "uptimeYear": "99.90%",
+    "uptime": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.94%",
+    "uptimeYear": "99.94%",
     "time": 1840,
     "timeDay": 1735,
     "timeWeek": 1746,
     "timeMonth": 1840,
     "timeYear": 1840,
     "dailyMinutesDown": {
-      "2024-08-21": 10,
       "2024-08-19": 19
     }
   },

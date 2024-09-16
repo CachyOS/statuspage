@@ -22,19 +22,19 @@
     "url": "https://cdn-1.cachyos.org/x86_64/cachyos/cachyos.db",
     "icon": "https://icons.duckduckgo.com/ip3/cdn-1.cachyos.org.ico",
     "slug": "tebi-cdn-usa-germany-singapore",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
     "time": 320,
-    "timeDay": 355,
-    "timeWeek": 330,
-    "timeMonth": 315,
+    "timeDay": 352,
+    "timeWeek": 332,
+    "timeMonth": 316,
     "timeYear": 320,
     "dailyMinutesDown": {
-      "2024-09-16": 1
+      "2024-09-16": 15
     }
   },
   {
@@ -310,7 +310,7 @@
     "uptime": "99.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.32%",
+    "uptimeMonth": "98.35%",
     "uptimeYear": "99.33%",
     "time": 398,
     "timeDay": 182,

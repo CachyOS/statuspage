@@ -22,10 +22,10 @@
     "url": "https://cdn-1.cachyos.org/x86_64/cachyos/cachyos.db",
     "icon": "https://icons.duckduckgo.com/ip3/cdn-1.cachyos.org.ico",
     "slug": "tebi-cdn-usa-germany-singapore",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 320,
@@ -33,7 +33,9 @@
     "timeWeek": 330,
     "timeMonth": 315,
     "timeYear": 320,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-09-16": 1
+    }
   },
   {
     "name": "CDN77 CDN (Worldwide Cache)",
@@ -43,12 +45,12 @@
     "status": "up",
     "uptime": "99.88%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.80%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.88%",
     "time": 632,
     "timeDay": 480,
-    "timeWeek": 417,
+    "timeWeek": 406,
     "timeMonth": 694,
     "timeYear": 632,
     "dailyMinutesDown": {
@@ -230,7 +232,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/kr.cachyos.org.ico",
     "slug": "south-korea-mirror",
     "status": "up",
-    "uptime": "92.28%",
+    "uptime": "92.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.34%",
     "uptimeMonth": "99.64%",
@@ -308,7 +310,7 @@
     "uptime": "99.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.90%",
+    "uptimeMonth": "98.32%",
     "uptimeYear": "99.33%",
     "time": 398,
     "timeDay": 182,

@@ -20,10 +20,6 @@ sites:
     url: https://mirror.lesviallon.fr/cachy/
   - name: Russia mirror
     url: https://mirror.truenetwork.ru/cachy/
-  - name: South Korea mirror
-    url: https://kr.cachyos.org/
-    assignees:
-      - silent-heigou
   - name: USA mirror
     url: https://us.cachyos.org/
   - name: Norway2 Mirror
@@ -38,12 +34,6 @@ sites:
     url: https://mirror.funami.tech/cachy/
   - name: China Mirror 20GBs
     url: https://mirrors.tuna.tsinghua.edu.cn/cachyos/
-  - name: India mirror
-    url: https://mirror.albony.xyz/cachylinux/
-    assignees:
-      - Albonycal
-  - name: Matrix Server
-    url: https://matrix.cachyos.org/
 
 status-website:
   cname: status.cachyos.org

@@ -4,9 +4,9 @@
     "url": "https://cachyos.org/",
     "icon": "https://icons.duckduckgo.com/ip3/cachyos.org.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 737,
     "timeMonth": 690,
     "timeYear": 677,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-10-05": 0
+    }
   },
   {
     "name": "Tebi CDN (USA, Germany, Singapore)",
@@ -103,12 +105,12 @@
     "uptime": "96.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.72%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "97.26%",
     "time": 1368,
     "timeDay": 595,
     "timeWeek": 775,
-    "timeMonth": 1362,
+    "timeMonth": 1384,
     "timeYear": 1380,
     "dailyMinutesDown": {
       "2024-09-26": 37,
@@ -198,7 +200,7 @@
     "time": 1710,
     "timeDay": 1094,
     "timeWeek": 1212,
-    "timeMonth": 1348,
+    "timeMonth": 1139,
     "timeYear": 1722,
     "dailyMinutesDown": {
       "2024-09-05": 28,
@@ -230,7 +232,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.46%",
+    "uptimeYear": "99.54%",
     "time": 407,
     "timeDay": 182,
     "timeWeek": 261,

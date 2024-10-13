@@ -309,19 +309,19 @@
     "url": "https://mirror.funami.tech/cachy/",
     "icon": "https://icons.duckduckgo.com/ip3/mirror.funami.tech.ico",
     "slug": "south-korea-mirror-2",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 746,
-    "timeDay": 818,
-    "timeWeek": 754,
-    "timeMonth": 776,
-    "timeYear": 746,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.56%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 805,
+    "timeDay": 3141,
+    "timeWeek": 1343,
+    "timeMonth": 923,
+    "timeYear": 805,
     "dailyMinutesDown": {
-      "2024-10-13": 0
+      "2024-10-13": 6
     }
   },
   {

@@ -195,7 +195,7 @@
     "timeDay": 834,
     "timeWeek": 1079,
     "timeMonth": 1158,
-    "timeYear": 1713,
+    "timeYear": 1708,
     "dailyMinutesDown": {
       "2024-09-05": 28,
       "2024-06-12": 40,
@@ -286,9 +286,9 @@
     "url": "https://at.cachyos.org",
     "icon": "https://icons.duckduckgo.com/ip3/at.cachyos.org.ico",
     "slug": "austria-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -297,7 +297,9 @@
     "timeWeek": 646,
     "timeMonth": 663,
     "timeYear": 671,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-12": 0
+    }
   },
   {
     "name": "South Korea Mirror 2",
@@ -323,18 +325,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mirrors.tuna.tsinghua.edu.cn.ico",
     "slug": "china-mirror-20-g-bs",
     "status": "down",
-    "uptime": "99.37%",
-    "uptimeDay": "36.21%",
-    "uptimeWeek": "90.89%",
-    "uptimeMonth": "97.90%",
-    "uptimeYear": "99.37%",
+    "uptime": "99.15%",
+    "uptimeDay": "12.82%",
+    "uptimeWeek": "87.55%",
+    "uptimeMonth": "97.13%",
+    "uptimeYear": "99.15%",
     "time": 2253,
     "timeDay": 2009,
     "timeWeek": 2205,
     "timeMonth": 2252,
     "timeYear": 2253,
     "dailyMinutesDown": {
-      "2024-11-12": 67,
+      "2024-11-12": 403,
       "2024-11-11": 852,
       "2024-08-19": 19
     }

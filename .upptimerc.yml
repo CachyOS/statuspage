@@ -24,8 +24,6 @@ sites:
     url: https://us.cachyos.org/
   - name: Norway2 Mirror
     url: https://no.mirror.cx/cachyos/
-  - name: France2 Mirror
-    url: https://mir.cachyos.fr
   - name: Austria Mirror
     url: https://at.cachyos.org
     assignees:

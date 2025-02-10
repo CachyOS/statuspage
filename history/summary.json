@@ -103,8 +103,8 @@
     "slug": "france-mirror",
     "status": "down",
     "uptime": "98.22%",
-    "uptimeDay": "98.74%",
-    "uptimeWeek": "96.24%",
+    "uptimeDay": "98.63%",
+    "uptimeWeek": "96.23%",
     "uptimeMonth": "98.84%",
     "uptimeYear": "98.16%",
     "time": 1360,
@@ -113,7 +113,7 @@
     "timeMonth": 1154,
     "timeYear": 1281,
     "dailyMinutesDown": {
-      "2025-02-10": 0,
+      "2025-02-10": 2,
       "2025-02-09": 18,
       "2025-02-07": 25,
       "2025-02-06": 336,
@@ -307,7 +307,7 @@
     "timeMonth": 2214,
     "timeYear": 2181,
     "dailyMinutesDown": {
-      "2025-02-10": 68,
+      "2025-02-10": 69,
       "2025-02-09": 1440,
       "2025-02-08": 1440,
       "2025-02-07": 1440,

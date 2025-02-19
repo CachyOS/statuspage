@@ -235,10 +235,10 @@
     "url": "https://no.mirror.cx/cachyos/",
     "icon": "https://icons.duckduckgo.com/ip3/no.mirror.cx.ico",
     "slug": "norway2-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 840,
@@ -246,7 +246,9 @@
     "timeWeek": 638,
     "timeMonth": 753,
     "timeYear": 840,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-19": 1
+    }
   },
   {
     "name": "Austria Mirror",
@@ -297,18 +299,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mirrors.tuna.tsinghua.edu.cn.ico",
     "slug": "china-mirror-20-g-bs",
     "status": "down",
-    "uptime": "50.77%",
+    "uptime": "50.67%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "50.77%",
+    "uptimeYear": "50.67%",
     "time": 2182,
     "timeDay": 1612,
     "timeWeek": 2199,
     "timeMonth": 2240,
     "timeYear": 2182,
     "dailyMinutesDown": {
-      "2025-02-19": 69,
+      "2025-02-19": 635,
       "2025-02-18": 1440,
       "2025-02-17": 1440,
       "2025-02-16": 1440,

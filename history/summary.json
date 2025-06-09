@@ -101,13 +101,13 @@
     "url": "https://mirror.lesviallon.fr/cachy/",
     "icon": "https://icons.duckduckgo.com/ip3/mirror.lesviallon.fr.ico",
     "slug": "france-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "99.28%",
-    "uptimeDay": "94.08%",
+    "uptimeDay": "94.06%",
     "uptimeWeek": "92.92%",
     "uptimeMonth": "97.29%",
     "uptimeYear": "98.76%",
-    "time": 1232,
+    "time": 1233,
     "timeDay": 796,
     "timeWeek": 881,
     "timeMonth": 931,
@@ -183,8 +183,7 @@
       "2024-09-25": 15,
       "2024-09-05": 69,
       "2024-08-24": 24,
-      "2024-08-23": 15,
-      "2024-08-22": 15
+      "2024-08-23": 15
     }
   },
   {
@@ -261,9 +260,9 @@
     "slug": "austria-mirror",
     "status": "down",
     "uptime": "98.92%",
-    "uptimeDay": "64.00%",
-    "uptimeWeek": "94.86%",
-    "uptimeMonth": "98.82%",
+    "uptimeDay": "62.94%",
+    "uptimeWeek": "94.71%",
+    "uptimeMonth": "98.78%",
     "uptimeYear": "98.92%",
     "time": 482,
     "timeDay": 461,
@@ -271,7 +270,7 @@
     "timeMonth": 224,
     "timeYear": 482,
     "dailyMinutesDown": {
-      "2025-06-09": 518,
+      "2025-06-09": 534,
       "2025-02-08": 583,
       "2025-02-07": 1440,
       "2025-02-06": 1440,
@@ -315,7 +314,7 @@
     "timeMonth": 2068,
     "timeYear": 2110,
     "dailyMinutesDown": {
-      "2025-06-09": 1353,
+      "2025-06-09": 1369,
       "2025-06-08": 1440,
       "2025-06-07": 1440,
       "2025-06-06": 1440,

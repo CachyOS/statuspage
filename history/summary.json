@@ -104,19 +104,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mirror.lesviallon.fr.ico",
     "slug": "france-mirror",
     "status": "up",
-    "uptime": "99.38%",
-    "uptimeDay": "98.19%",
-    "uptimeWeek": "98.46%",
-    "uptimeMonth": "97.74%",
-    "uptimeYear": "98.89%",
+    "uptime": "99.32%",
+    "uptimeDay": "98.67%",
+    "uptimeWeek": "98.53%",
+    "uptimeMonth": "97.75%",
+    "uptimeYear": "98.78%",
     "time": 1205,
     "timeDay": 242,
     "timeWeek": 1345,
     "timeMonth": 795,
     "timeYear": 1177,
     "dailyMinutesDown": {
-      "2025-07-07": 0,
-      "2025-07-06": 26,
+      "2025-07-06": 19,
       "2025-07-05": 43,
       "2025-07-04": 16,
       "2025-07-03": 45,
@@ -183,7 +182,8 @@
       "2024-12-01": 87,
       "2024-11-28": 785,
       "2024-11-27": 337,
-      "2024-11-26": 118
+      "2024-11-26": 118,
+      "2024-11-24": 606
     }
   },
   {
@@ -317,7 +317,7 @@
     "timeMonth": 1948,
     "timeYear": 2097,
     "dailyMinutesDown": {
-      "2025-07-07": 1,
+      "2025-07-07": 86,
       "2025-07-06": 1440,
       "2025-07-05": 1440,
       "2025-07-04": 1440,

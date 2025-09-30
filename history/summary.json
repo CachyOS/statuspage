@@ -101,14 +101,14 @@
     "url": "https://mirror.lesviallon.fr/cachy/",
     "icon": "https://icons.duckduckgo.com/ip3/mirror.lesviallon.fr.ico",
     "slug": "france-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "89.05%",
-    "uptimeWeek": "91.83%",
+    "uptimeDay": "89.25%",
+    "uptimeWeek": "91.82%",
     "uptimeMonth": "97.99%",
-    "uptimeYear": "99.06%",
+    "uptimeYear": "99.07%",
     "time": 1135,
-    "timeDay": 563,
+    "timeDay": 550,
     "timeWeek": 799,
     "timeMonth": 1008,
     "timeYear": 1126,
@@ -174,7 +174,7 @@
       "2025-04-21": 19,
       "2025-04-20": 16,
       "2025-04-17": 226,
-      "2025-04-12": 38
+      "2025-04-12": 17
     }
   },
   {
@@ -310,7 +310,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/mirrors.tuna.tsinghua.edu.cn.ico",
     "slug": "china-mirror-20-g-bs",
     "status": "down",
-    "uptime": "24.15%",
+    "uptime": "24.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -321,7 +321,7 @@
     "timeMonth": 2024,
     "timeYear": 2042,
     "dailyMinutesDown": {
-      "2025-09-30": 315,
+      "2025-09-30": 335,
       "2025-09-29": 1440,
       "2025-09-28": 1440,
       "2025-09-27": 1440,

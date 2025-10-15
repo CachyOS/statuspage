@@ -73,7 +73,7 @@
     "timeDay": 664,
     "timeWeek": 523,
     "timeMonth": 582,
-    "timeYear": 608,
+    "timeYear": 609,
     "dailyMinutesDown": {
       "2025-10-11": 193,
       "2025-10-02": 22
@@ -102,10 +102,10 @@
     "url": "https://mirror.lesviallon.fr/cachy/",
     "icon": "https://icons.duckduckgo.com/ip3/mirror.lesviallon.fr.ico",
     "slug": "france-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "99.54%",
-    "uptimeDay": "98.95%",
-    "uptimeWeek": "97.77%",
+    "uptimeDay": "98.92%",
+    "uptimeWeek": "97.76%",
     "uptimeMonth": "97.16%",
     "uptimeYear": "99.05%",
     "time": 1137,
@@ -114,6 +114,7 @@
     "timeMonth": 912,
     "timeYear": 1128,
     "dailyMinutesDown": {
+      "2025-10-15": 0,
       "2025-10-14": 15,
       "2025-10-11": 23,
       "2025-10-10": 187,
@@ -178,8 +179,7 @@
       "2025-05-14": 70,
       "2025-05-13": 52,
       "2025-05-12": 34,
-      "2025-05-08": 87,
-      "2025-04-24": 16
+      "2025-05-08": 87
     }
   },
   {
@@ -316,18 +316,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mirrors.tuna.tsinghua.edu.cn.ico",
     "slug": "china-mirror-20-g-bs",
     "status": "down",
-    "uptime": "23.33%",
+    "uptime": "23.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "7.49%",
+    "uptimeYear": "7.42%",
     "time": 2074,
     "timeDay": 1495,
     "timeWeek": 1763,
     "timeMonth": 1914,
     "timeYear": 2030,
     "dailyMinutesDown": {
-      "2025-10-15": 76,
+      "2025-10-15": 480,
       "2025-10-14": 1440,
       "2025-10-13": 1440,
       "2025-10-12": 1440,

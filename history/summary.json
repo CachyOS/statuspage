@@ -6,9 +6,9 @@
     "slug": "website",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 742,
     "timeDay": 442,
@@ -16,7 +16,7 @@
     "timeMonth": 606,
     "timeYear": 736,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 8
     }
   },
   {
@@ -24,18 +24,19 @@
     "url": "https://cdn-1.cachyos.org/x86_64/cachyos/cachyos.db",
     "icon": "https://icons.duckduckgo.com/ip3/cdn-1.cachyos.org.ico",
     "slug": "tebi-cdn-usa-germany-singapore",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 370,
-    "timeDay": 232,
-    "timeWeek": 434,
-    "timeMonth": 333,
+    "timeDay": 218,
+    "timeWeek": 405,
+    "timeMonth": 329,
     "timeYear": 385,
     "dailyMinutesDown": {
+      "2025-11-18": 0,
       "2025-10-27": 18,
       "2025-06-28": 24
     }
@@ -68,9 +69,9 @@
     "slug": "de-mirror",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.96%",
     "time": 590,
     "timeDay": 367,
@@ -78,7 +79,7 @@
     "timeMonth": 556,
     "timeYear": 611,
     "dailyMinutesDown": {
-      "2025-11-18": 0,
+      "2025-11-18": 8,
       "2025-10-11": 193,
       "2025-10-02": 22
     }
@@ -88,19 +89,19 @@
     "url": "https://aur.cachyos.org/",
     "icon": "https://icons.duckduckgo.com/ip3/aur.cachyos.org.ico",
     "slug": "de-2-mirror",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 619,
-    "timeDay": 376,
+    "timeDay": 427,
     "timeWeek": 530,
-    "timeMonth": 498,
+    "timeMonth": 499,
     "timeYear": 658,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 8
     }
   },
   {
@@ -229,9 +230,9 @@
     "slug": "usa-mirror",
     "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "99.42%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 289,
     "timeDay": 201,
@@ -239,7 +240,7 @@
     "timeMonth": 331,
     "timeYear": 295,
     "dailyMinutesDown": {
-      "2025-11-18": 8
+      "2025-11-18": 16
     }
   },
   {
@@ -273,7 +274,7 @@
     "uptime": "95.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "40.83%",
+    "uptimeMonth": "40.81%",
     "uptimeYear": "93.60%",
     "time": 521,
     "timeDay": 229,
@@ -281,7 +282,7 @@
     "timeMonth": 382,
     "timeYear": 483,
     "dailyMinutesDown": {
-      "2025-11-18": 707,
+      "2025-11-18": 715,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -379,7 +380,7 @@
     "timeMonth": 1792,
     "timeYear": 1989,
     "dailyMinutesDown": {
-      "2025-11-18": 707,
+      "2025-11-18": 715,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,

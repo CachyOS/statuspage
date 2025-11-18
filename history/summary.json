@@ -4,18 +4,20 @@
     "url": "https://cachyos.org/",
     "icon": "https://icons.duckduckgo.com/ip3/cachyos.org.ico",
     "slug": "website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 743,
-    "timeDay": 828,
-    "timeWeek": 687,
-    "timeMonth": 624,
-    "timeYear": 737,
-    "dailyMinutesDown": {}
+    "time": 742,
+    "timeDay": 442,
+    "timeWeek": 608,
+    "timeMonth": 606,
+    "timeYear": 736,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "Tebi CDN (USA, Germany, Singapore)",
@@ -64,18 +66,19 @@
     "url": "https://mirror.cachyos.org/",
     "icon": "https://icons.duckduckgo.com/ip3/mirror.cachyos.org.ico",
     "slug": "de-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 590,
-    "timeDay": 539,
-    "timeWeek": 551,
-    "timeMonth": 568,
-    "timeYear": 612,
+    "timeDay": 367,
+    "timeWeek": 506,
+    "timeMonth": 556,
+    "timeYear": 611,
     "dailyMinutesDown": {
+      "2025-11-18": 0,
       "2025-10-11": 193,
       "2025-10-02": 22
     }
@@ -85,18 +88,20 @@
     "url": "https://aur.cachyos.org/",
     "icon": "https://icons.duckduckgo.com/ip3/aur.cachyos.org.ico",
     "slug": "de-2-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 619,
-    "timeDay": 687,
-    "timeWeek": 596,
-    "timeMonth": 512,
-    "timeYear": 660,
-    "dailyMinutesDown": {}
+    "timeDay": 376,
+    "timeWeek": 530,
+    "timeMonth": 498,
+    "timeYear": 658,
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   },
   {
     "name": "France mirror",
@@ -224,9 +229,9 @@
     "slug": "usa-mirror",
     "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 289,
     "timeDay": 201,
@@ -234,7 +239,7 @@
     "timeMonth": 331,
     "timeYear": 295,
     "dailyMinutesDown": {
-      "2025-11-18": 1
+      "2025-11-18": 8
     }
   },
   {
@@ -268,7 +273,7 @@
     "uptime": "95.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "40.84%",
+    "uptimeMonth": "40.83%",
     "uptimeYear": "93.60%",
     "time": 521,
     "timeDay": 229,
@@ -276,7 +281,7 @@
     "timeMonth": 382,
     "timeYear": 483,
     "dailyMinutesDown": {
-      "2025-11-18": 699,
+      "2025-11-18": 707,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,
@@ -374,7 +379,7 @@
     "timeMonth": 1792,
     "timeYear": 1989,
     "dailyMinutesDown": {
-      "2025-11-18": 699,
+      "2025-11-18": 707,
       "2025-11-17": 1440,
       "2025-11-16": 1440,
       "2025-11-15": 1440,

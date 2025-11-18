@@ -1,7 +1,7 @@
 url: https://mirror.cachyos.org/
-status: up
-code: 200
-responseTime: 689
-lastUpdated: 2025-11-18T12:23:42.834Z
+status: down
+code: 500
+responseTime: 209
+lastUpdated: 2025-11-18T13:04:56.596Z
 startTime: 2023-02-04T16:31:00.000Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -1,7 +1,7 @@
 url: https://cdn-1.cachyos.org/x86_64/cachyos/cachyos.db
-status: up
-code: 200
-responseTime: 232
-lastUpdated: 2025-11-17T23:14:44.834Z
+status: down
+code: 500
+responseTime: 203
+lastUpdated: 2025-11-18T11:54:06.360Z
 startTime: 2024-07-31T15:21:12.787Z
 generator: Upptime <https://github.com/upptime/upptime>

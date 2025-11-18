@@ -1,7 +1,7 @@
 url: https://cachyos.org/
-status: up
-code: 200
-responseTime: 845
-lastUpdated: 2025-11-18T14:40:58.154Z
+status: down
+code: 500
+responseTime: 9683
+lastUpdated: 2025-11-18T15:44:58.580Z
 startTime: 2023-02-04T16:30:59.000Z
 generator: Upptime <https://github.com/upptime/upptime>

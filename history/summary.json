@@ -116,17 +116,17 @@
     "url": "https://mirror.lesviallon.fr/cachy/",
     "icon": "https://icons.duckduckgo.com/ip3/mirror.lesviallon.fr.ico",
     "slug": "france-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "98.28%",
-    "uptimeDay": "75.46%",
+    "uptimeDay": "75.43%",
     "uptimeWeek": "96.49%",
     "uptimeMonth": "99.12%",
-    "uptimeYear": "95.82%",
+    "uptimeYear": "95.84%",
     "time": 991,
-    "timeDay": 591,
-    "timeWeek": 652,
-    "timeMonth": 626,
-    "timeYear": 963,
+    "timeDay": 570,
+    "timeWeek": 638,
+    "timeMonth": 622,
+    "timeYear": 962,
     "dailyMinutesDown": {
       "2026-02-22": 353,
       "2026-02-06": 33,
@@ -207,8 +207,7 @@
       "2025-06-07": 63,
       "2025-06-06": 16,
       "2025-06-05": 412,
-      "2025-06-03": 92,
-      "2025-06-02": 44
+      "2025-06-03": 52
     }
   },
   {
@@ -437,7 +436,7 @@
     "timeMonth": 1853,
     "timeYear": 1934,
     "dailyMinutesDown": {
-      "2026-02-22": 597,
+      "2026-02-22": 839,
       "2026-02-21": 1440,
       "2026-02-20": 1440,
       "2026-02-19": 1440,

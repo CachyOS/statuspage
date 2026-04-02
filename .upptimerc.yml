@@ -32,6 +32,8 @@ sites:
     url: https://mirror.funami.tech/cachy/
   - name: China Mirror 20GBs
     url: https://mirrors.tuna.tsinghua.edu.cn/cachyos/
+  - name: debuginfod server
+    url: https://debuginfod.cachyos.org
 
 status-website:
   cname: status.cachyos.org

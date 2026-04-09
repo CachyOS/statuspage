@@ -9,7 +9,7 @@ sites:
   - name: Website
     url: https://cachyos.org/
   - name: Wiki
-    url: https://wiki.cachyos.net/
+    url: https://wiki.cachyos.org/
   - name: Discuss
     url: https://discuss.cachyos.org/
   - name: CDN77 CDN (Worldwide)

@@ -8,30 +8,60 @@ assignees:
 sites:
   - name: Website
     url: https://cachyos.org/
-  - name: Tebi CDN (USA, Germany, Singapore)
-    url: https://cdn-1.cachyos.org/x86_64/cachyos/cachyos.db
-  - name: CDN77 CDN (Worldwide Cache)
+  - name: Wiki
+    url: https://wiki.cachyos.net/
+  - name: Discuss
+    url: https://discuss.cachyos.org/
+  - name: CDN77 CDN (Worldwide)
     url: https://cdn77.cachyos.org/repo/x86_64/cachyos/cachyos.db
-  - name: DE mirror
-    url: https://mirror.cachyos.org/
-  - name: DE2 mirror
-    url: https://aur.cachyos.org/
-  - name: France mirror
-    url: https://mirror.lesviallon.fr/cachy/
-  - name: Russia mirror
-    url: https://mirror.truenetwork.ru/cachy/
-  - name: USA mirror
+  - name: USA Mirror
     url: https://us.cachyos.org/
-  - name: Norway2 Mirror
-    url: https://no.mirror.cx/cachyos/
+  - name: USA Mirror (Minnesota)
+    url: https://us-mnz.soulharsh007.dev/cachyos/
+  - name: USA Mirror (Michigan)
+    url: https://mirrors.lansing2600.org/cachyos/
+  - name: USA CDN (Michigan)
+    url: https://cdn.lansing2600.org/cachyos/
+  - name: Canada Mirror
+    url: https://ca.mirror.cx/cachyos/
+  - name: Canada Mirror (Quebec)
+    url: https://mirror.allthingslinux.org/cachyos/
+  - name: France Mirror
+    url: https://mirror.lesviallon.fr/cachy/
   - name: Austria Mirror
     url: https://at.cachyos.org
     assignees:
       - SoulHarsh007
-  - name: South Korea Mirror 2
-    url: https://mirror.funami.tech/cachy/
-  - name: China Mirror 20GBs
-    url: https://mirrors.tuna.tsinghua.edu.cn/cachyos/
+  - name: Germany Mirror
+    url: https://mirror.mergedcloud.de/cachyos/
+  - name: Netherlands Mirror
+    url: https://nl.mirror.cx/cachyos/
+  - name: Sweden Mirror
+    url: https://mirror.zyner.org/mirror/cachyos/
+  - name: Switzerland Mirror
+    url: https://mirror.hb9hil.org/cachyos/
+  - name: Norway Mirror
+    url: https://no.mirror.cx/cachyos/
+  - name: Italy Mirror (NextWorks)
+    url: https://cachyos.next-works.it/
+  - name: Italy Mirror (m1k.cloud)
+    url: https://cachyos-mirror.m1k.cloud/
+  - name: Finland Mirror
+    url: https://cachyos.doridian.net/
+  - name: Bangladesh Mirror
+    url: https://mirror.limda.net/cachy/
+  - name: Russia Mirror (archlinux.gay)
+    url: https://archlinux.gay/cachy/
+  - name: Russia Mirror (jura12)
+    url: https://mirror.jura12.ru/
+  - name: Russia Mirror (cachy-arch.ru)
+    url: https://mirror.cachy-arch.ru/cachyos/
+  - name: Russia Mirror (metrosg.ru)
+    url: https://wan.metrosg.ru/cachyos/
+  - name: China Mirror (Nanjing)
+    url: https://mirror.nju.edu.cn/cachyos/
+  - name: China Mirror (USTC)
+    url: https://mirrors.ustc.edu.cn/cachyos/
 
 status-website:
   cname: status.cachyos.org

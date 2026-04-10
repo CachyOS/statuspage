@@ -112,7 +112,7 @@
     "timeMonth": 128,
     "timeYear": 128,
     "dailyMinutesDown": {
-      "2026-04-10": 1221,
+      "2026-04-10": 1258,
       "2026-04-09": 395
     }
   },
@@ -151,7 +151,7 @@
     "timeMonth": 152,
     "timeYear": 152,
     "dailyMinutesDown": {
-      "2026-04-10": 1221,
+      "2026-04-10": 1258,
       "2026-04-09": 395
     }
   },
@@ -468,11 +468,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cachyos-mirror.m1k.cloud.ico",
     "slug": "italy-mirror-m1k-cloud",
     "status": "up",
-    "uptime": "93.89%",
+    "uptime": "94.03%",
     "uptimeDay": "93.14%",
-    "uptimeWeek": "93.89%",
-    "uptimeMonth": "93.89%",
-    "uptimeYear": "93.89%",
+    "uptimeWeek": "94.03%",
+    "uptimeMonth": "94.03%",
+    "uptimeYear": "94.03%",
     "time": 504,
     "timeDay": 522,
     "timeWeek": 504,
@@ -523,19 +523,19 @@
     "url": "https://archlinux.gay/cachy/",
     "icon": "https://icons.duckduckgo.com/ip3/archlinux.gay.ico",
     "slug": "russia-mirror-archlinux-gay",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.97%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.97%",
-    "time": 1153,
-    "timeDay": 485,
-    "timeWeek": 1153,
-    "timeMonth": 1153,
-    "timeYear": 1153,
+    "status": "up",
+    "uptime": "97.76%",
+    "uptimeDay": "97.43%",
+    "uptimeWeek": "97.76%",
+    "uptimeMonth": "97.76%",
+    "uptimeYear": "97.76%",
+    "time": 1003,
+    "timeDay": 519,
+    "timeWeek": 1003,
+    "timeMonth": 1003,
+    "timeYear": 1003,
     "dailyMinutesDown": {
-      "2026-04-10": 0
+      "2026-04-10": 37
     }
   },
   {

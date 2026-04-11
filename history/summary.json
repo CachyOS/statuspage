@@ -112,7 +112,7 @@
     "timeMonth": 115,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2026-04-11": 1018,
+      "2026-04-11": 1050,
       "2026-04-10": 1440,
       "2026-04-09": 395
     }
@@ -152,7 +152,7 @@
     "timeMonth": 184,
     "timeYear": 184,
     "dailyMinutesDown": {
-      "2026-04-11": 1018,
+      "2026-04-11": 1050,
       "2026-04-10": 1440,
       "2026-04-09": 395
     }
@@ -162,19 +162,19 @@
     "url": "https://ca.mirror.cx/cachyos/",
     "icon": "https://icons.duckduckgo.com/ip3/ca.mirror.cx.ico",
     "slug": "canada-mirror",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 340,
-    "timeDay": 257,
-    "timeWeek": 340,
-    "timeMonth": 340,
-    "timeYear": 340,
+    "status": "up",
+    "uptime": "98.90%",
+    "uptimeDay": "97.80%",
+    "uptimeWeek": "98.90%",
+    "uptimeMonth": "98.90%",
+    "uptimeYear": "98.90%",
+    "time": 566,
+    "timeDay": 864,
+    "timeWeek": 566,
+    "timeMonth": 566,
+    "timeYear": 566,
     "dailyMinutesDown": {
-      "2026-04-11": 1
+      "2026-04-11": 32
     }
   },
   {
@@ -472,11 +472,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cachyos-mirror.m1k.cloud.ico",
     "slug": "italy-mirror-m1k-cloud",
     "status": "up",
-    "uptime": "96.54%",
+    "uptime": "96.58%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "96.54%",
-    "uptimeMonth": "96.54%",
-    "uptimeYear": "96.54%",
+    "uptimeWeek": "96.58%",
+    "uptimeMonth": "96.58%",
+    "uptimeYear": "96.58%",
     "time": 496,
     "timeDay": 467,
     "timeWeek": 496,
@@ -528,11 +528,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/archlinux.gay.ico",
     "slug": "russia-mirror-archlinux-gay",
     "status": "up",
-    "uptime": "97.78%",
+    "uptime": "97.81%",
     "uptimeDay": "95.61%",
-    "uptimeWeek": "97.78%",
-    "uptimeMonth": "97.78%",
-    "uptimeYear": "97.78%",
+    "uptimeWeek": "97.81%",
+    "uptimeMonth": "97.81%",
+    "uptimeYear": "97.81%",
     "time": 1024,
     "timeDay": 895,
     "timeWeek": 1024,

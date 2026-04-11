@@ -112,7 +112,7 @@
     "timeMonth": 115,
     "timeYear": 115,
     "dailyMinutesDown": {
-      "2026-04-11": 121,
+      "2026-04-11": 654,
       "2026-04-10": 1440,
       "2026-04-09": 395
     }
@@ -152,7 +152,7 @@
     "timeMonth": 184,
     "timeYear": 184,
     "dailyMinutesDown": {
-      "2026-04-11": 121,
+      "2026-04-11": 654,
       "2026-04-10": 1440,
       "2026-04-09": 395
     }
@@ -208,7 +208,7 @@
     "timeDay": 327,
     "timeWeek": 510,
     "timeMonth": 568,
-    "timeYear": 891,
+    "timeYear": 894,
     "dailyMinutesDown": {
       "2026-04-07": 253,
       "2026-03-21": 166,
@@ -301,7 +301,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/at.cachyos.org.ico",
     "slug": "austria-mirror",
     "status": "down",
-    "uptime": "93.82%",
+    "uptime": "93.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -470,11 +470,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/cachyos-mirror.m1k.cloud.ico",
     "slug": "italy-mirror-m1k-cloud",
     "status": "up",
-    "uptime": "94.95%",
+    "uptime": "96.03%",
     "uptimeDay": "93.14%",
-    "uptimeWeek": "94.95%",
-    "uptimeMonth": "94.95%",
-    "uptimeYear": "94.95%",
+    "uptimeWeek": "96.03%",
+    "uptimeMonth": "96.03%",
+    "uptimeYear": "96.03%",
     "time": 496,
     "timeDay": 510,
     "timeWeek": 496,
@@ -525,18 +525,19 @@
     "url": "https://archlinux.gay/cachy/",
     "icon": "https://icons.duckduckgo.com/ip3/archlinux.gay.ico",
     "slug": "russia-mirror-archlinux-gay",
-    "status": "up",
-    "uptime": "98.11%",
-    "uptimeDay": "97.43%",
-    "uptimeWeek": "98.11%",
-    "uptimeMonth": "98.11%",
-    "uptimeYear": "98.11%",
+    "status": "down",
+    "uptime": "98.49%",
+    "uptimeDay": "97.39%",
+    "uptimeWeek": "98.49%",
+    "uptimeMonth": "98.49%",
+    "uptimeYear": "98.49%",
     "time": 971,
     "timeDay": 699,
     "timeWeek": 971,
     "timeMonth": 971,
     "timeYear": 971,
     "dailyMinutesDown": {
+      "2026-04-11": 1,
       "2026-04-10": 37
     }
   },

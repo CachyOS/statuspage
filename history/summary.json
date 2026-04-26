@@ -112,7 +112,7 @@
     "timeMonth": 119,
     "timeYear": 119,
     "dailyMinutesDown": {
-      "2026-04-26": 1177,
+      "2026-04-26": 1207,
       "2026-04-25": 1440,
       "2026-04-24": 1440,
       "2026-04-23": 1440,
@@ -167,7 +167,7 @@
     "timeMonth": 131,
     "timeYear": 131,
     "dailyMinutesDown": {
-      "2026-04-26": 1177,
+      "2026-04-26": 1207,
       "2026-04-25": 1440,
       "2026-04-24": 1440,
       "2026-04-23": 1440,
@@ -212,19 +212,19 @@
     "url": "https://mirror.allthingslinux.org/cachyos/",
     "icon": "https://icons.duckduckgo.com/ip3/mirror.allthingslinux.org.ico",
     "slug": "canada-mirror-quebec",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.93%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 226,
-    "timeDay": 209,
-    "timeWeek": 248,
-    "timeMonth": 226,
-    "timeYear": 226,
+    "status": "up",
+    "uptime": "99.87%",
+    "uptimeDay": "97.86%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.87%",
+    "time": 228,
+    "timeDay": 236,
+    "timeWeek": 250,
+    "timeMonth": 228,
+    "timeYear": 228,
     "dailyMinutesDown": {
-      "2026-04-26": 1
+      "2026-04-26": 31
     }
   },
   {
@@ -472,7 +472,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/no.mirror.cx.ico",
     "slug": "norway-mirror",
     "status": "up",
-    "uptime": "83.59%",
+    "uptime": "83.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",

@@ -1,7 +1,7 @@
 url: https://mirror.nju.edu.cn/cachyos/
-status: up
-code: 200
-responseTime: 845
-lastUpdated: 2026-06-05T00:02:34.790Z
+status: down
+code: 429
+responseTime: 747
+lastUpdated: 2026-06-06T00:03:56.182Z
 startTime: 2026-04-09T17:25:17.483Z
 generator: Upptime <https://github.com/upptime/upptime>

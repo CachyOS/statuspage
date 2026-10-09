@@ -22,10 +22,12 @@ sites:
     url: https://mirrors.lansing2600.org/cachyos/
   - name: USA CDN (Michigan)
     url: https://cdn.lansing2600.org/cachyos/
+  - name: USA Mirror (Las Vegas)
+    url: https://mirror.hjk.gg/cachyos/
+  - name: USA Mirror (UMBC)
+    url: https://mirror.lug.umbc.edu/cachyos/
   - name: Canada Mirror
     url: https://ca.mirror.cx/cachyos/
-  - name: Canada Mirror (Quebec)
-    url: https://mirror.allthingslinux.org/cachyos/
   - name: France Mirror
     url: https://mirror.lesviallon.fr/cachy/
   - name: Austria Mirror
@@ -37,9 +39,11 @@ sites:
   - name: Netherlands Mirror
     url: https://nl.mirror.cx/cachyos/
   - name: Sweden Mirror
-    url: https://mirror.zyner.org/mirror/cachyos/
+    url: https://mirror.zyner.org/cachyos/
   - name: Switzerland Mirror
     url: https://mirror.hb9hil.org/cachyos/
+  - name: Switzerland Mirror (init7)
+    url: https://mirror.init7.net/cachyos/
   - name: Norway Mirror
     url: https://no.mirror.cx/cachyos/
   - name: Italy Mirror (NextWorks)
@@ -48,8 +52,14 @@ sites:
     url: https://cachyos-mirror.m1k.cloud/
   - name: Finland Mirror
     url: https://cachyos.doridian.net/
+  - name: Hungary Mirror
+    url: https://mirror.bali0531.hu/
+  - name: UK Mirror
+    url: https://repo.c48.uk/cachyos/
   - name: Bangladesh Mirror
     url: https://mirror.limda.net/cachy/
+  - name: India Mirror
+    url: https://cachyos.mirror.sahil.world/
   - name: Russia Mirror (archlinux.gay)
     url: https://archlinux.gay/cachy/
   - name: Russia Mirror (jura12)
@@ -62,6 +72,16 @@ sites:
     url: https://mirror.nju.edu.cn/cachyos/
   - name: China Mirror (USTC)
     url: https://mirrors.ustc.edu.cn/cachyos/
+  - name: South Korea Mirror (Keiverse)
+    url: https://mirror.keiminem.com/cachyos/
+  - name: South Korea Mirror (Keiverse 2)
+    url: https://mirror2.keiminem.com/cachyos/
+  - name: South Korea Mirror (KRFOSS)
+    url: https://mirror.krfoss.org/cachyos/
+  - name: South Korea Mirror (KRFOSS 5)
+    url: https://mirror5.krfoss.org/cachyos/repo/x86_64/cachyos/cachyos.db
+  - name: Vietnam Mirror
+    url: https://mirrors.nguyenhoang.cloud/cachyos/
 
 status-website:
   cname: status.cachyos.org

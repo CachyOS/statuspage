@@ -224,18 +224,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mirror.hjk.gg.ico",
     "slug": "usa-mirror-las-vegas",
     "status": "down",
-    "uptime": "12.23%",
-    "uptimeDay": "12.23%",
-    "uptimeWeek": "12.23%",
-    "uptimeMonth": "12.23%",
-    "uptimeYear": "12.23%",
+    "uptime": "9.24%",
+    "uptimeDay": "9.24%",
+    "uptimeWeek": "9.24%",
+    "uptimeMonth": "9.24%",
+    "uptimeYear": "9.24%",
     "time": 1305,
     "timeDay": 1305,
     "timeWeek": 1305,
     "timeMonth": 1305,
     "timeYear": 1305,
     "dailyMinutesDown": {
-      "2026-10-09": 2
+      "2026-10-09": 3
     }
   },
   {
@@ -951,7 +951,7 @@
       "2026-05-14": 800,
       "2026-05-13": 509,
       "2026-05-18": 65,
-      "2026-10-09": 402,
+      "2026-10-09": 403,
       "2026-10-08": 1440,
       "2026-10-07": 1440,
       "2026-10-06": 1440,
@@ -1164,18 +1164,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/mirror.krfoss.org.ico",
     "slug": "south-korea-mirror-krfoss",
     "status": "down",
-    "uptime": "21.88%",
-    "uptimeDay": "21.88%",
-    "uptimeWeek": "21.88%",
-    "uptimeMonth": "21.88%",
-    "uptimeYear": "21.88%",
+    "uptime": "12.82%",
+    "uptimeDay": "12.82%",
+    "uptimeWeek": "12.82%",
+    "uptimeMonth": "12.82%",
+    "uptimeYear": "12.82%",
     "time": 84,
     "timeDay": 84,
     "timeWeek": 84,
     "timeMonth": 84,
     "timeYear": 84,
     "dailyMinutesDown": {
-      "2026-10-09": 1
+      "2026-10-09": 2
     }
   },
   {
